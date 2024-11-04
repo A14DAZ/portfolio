@@ -3,7 +3,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 
 export const DATA = {
   name: "Ahmed ALKHULAQI",
-  initials: "SA",
+  initials: "AZ",
   url: "https://sultanalasadi.vercel.app/",
   location: "Saudi Arabia - Riyadh",
   locationLink: "https://www.google.com/maps/place/Riyadh",
@@ -12,7 +12,7 @@ export const DATA = {
 
   summary:
     "I am a dedicated and versatile professional with a background in both front end development and accounting. With a bachelor's degree from Istanbul Nisantasi University and hands-on experience at Blulogix and Hermes Triangle, I possess strong technical skills in web development (HTML, CSS, JavaScript, React.js) and comprehensive knowledge of accounting practices. My multilingual abilities and proficiency in project management, teamwork, and customer service enable me to adapt and excel in diverse environments. I am committed to continuous learning and contributing effectively to team success.",
-  avatarUrl: "/ahmed.jpg",
+  avatarUrl: "/ahmed.JPG",
   skills: [
     "React.js",
     "JavaScript",

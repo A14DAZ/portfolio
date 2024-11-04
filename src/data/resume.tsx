@@ -2,20 +2,19 @@ import { Icons } from "@/components/icons";
 import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 
 export const DATA = {
-  name: "Sultan Alasadi",
+  name: "Ahmed ALKHULAQI",
   initials: "SA",
   url: "https://sultanalasadi.vercel.app/",
-  location: "Turkey - Istanbul",
-  locationLink: "https://www.google.com/maps/place/Istanbul",
+  location: "Saudi Arabia - Riyadh",
+  locationLink: "https://www.google.com/maps/place/Riyadh",
   description:
     "Frontend Developer with a passion for creating seamless user experiences. I turn coffee into code and ideas into responsive web applications.",
 
   summary:
-    "I'm Sultan, a dynamic Frontend Developer with a knack for crafting beautiful, functional websites. Armed with a degree in Computer Engineering and a toolkit filled with Next.js, React, and a suite of modern web technologies, I've been on a mission to elevate user experiences across the digital landscape. From my time at BluLogix where I wrangled APIs and built dynamic interfaces, to my role at VEGA SDS where I ensured pixel-perfect responsiveness across devices, I've honed my skills in turning complex problems into elegant solutions. When I'm not pushing pixels or debugging code, you can find me exploring the latest web technologies or collaborating on innovative projects. My goal? To create web experiences that not only meet user needs but exceed their expectations. Let's build something amazing together!",
-  avatarUrl: "/sultan.jpg",
+    "I am a dedicated and versatile professional with a background in both front end development and accounting. With a bachelor's degree from Istanbul Nisantasi University and hands-on experience at Blulogix and Hermes Triangle, I possess strong technical skills in web development (HTML, CSS, JavaScript, React.js) and comprehensive knowledge of accounting practices. My multilingual abilities and proficiency in project management, teamwork, and customer service enable me to adapt and excel in diverse environments. I am committed to continuous learning and contributing effectively to team success.",
+  avatarUrl: "/ahmed.jpg",
   skills: [
     "React.js",
-    "Next.js",
     "JavaScript",
     "HTML",
     "CSS",
@@ -23,13 +22,10 @@ export const DATA = {
     "Bootstrap",
     "Tailwind CSS",
     "JavaScript",
-    "Redux",
-    "Redux-Toolkit",
+    "Microsoft office",
     "Git",
     "GitHub",
     "Material UI",
-    "REST API integration",
-    "Axios",
     "JIRA",
     "Figma",
     "Responsive Design",
@@ -46,6 +42,9 @@ export const DATA = {
     "Fast Learner",
     "Self-Motivated",
     "Detail-Oriented",
+    "Arabic",
+    "English",
+    "Turkish",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -54,18 +53,18 @@ export const DATA = {
     { href: "#", icon: PencilLine, label: "Notes" },
   ],
   contact: {
-    email: "sultanalasadi7@gmail.com",
-    tel: "+905526047783",
+    email: "azd1422ahmed@gmail.com",
+    tel: "+966591456299",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/SultanAlasadi",
+        url: "https://github.com/A14DAZ",
         icon: Icons.github,
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/sultan-al-asadi-38367a221/",
+        url: "https://www.linkedin.com/in/ahmed-alkhulaqi-9a1259253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdcoyGp6sQv6TUeZYB3DPiQ%3D%3D",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -79,7 +78,7 @@ export const DATA = {
       },
       whatsapp: {
         name: "WhatsApp",
-        url: "https://wa.me/905526047783",
+        url: "https://wa.me/+966591456299",
         icon: Icons.whatsapp,
         navbar: true,
       },
@@ -91,7 +90,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "sultanalasadi7@gmail.com",
+        url: "azd1422ahmed@gmail.com",
         icon: Icons.email,
 
         navbar: false,
@@ -107,22 +106,22 @@ export const DATA = {
       location: "Istanbul, Turkey",
       title: "Front-end Developer",
       logoUrl: "/blulogix-logo--small-2020.png",
-      start: "Jan 2024",
+      start: "Feb 2024",
       end: "Jun 2024",
       description:
         "Developed dynamic web applications and interfaces using React. Handled API integration for seamless data flow. Used Git for code management and JIRA for task management and time tracking.",
     },
     {
-      company: "VEGA SDS",
+      company: "Hermes Triangle",
       href: "#",
       badges: [],
-      location: "Istanbul, Turkey",
-      title: "Front-end Developer",
-      logoUrl: "/images.jpeg",
-      start: "Jan 2023",
-      end: "Jan 2024",
+      location: "Riyadh, Saudi Arabia",
+      title: "Accountant ",
+      logoUrl: "/hermes.png",
+      start: "2022",
+      end: "2024",
       description:
-        "Created and maintained responsive, dynamic websites. Utilized HTML, CSS, Bootstrap, and JavaScript to design and develop user-friendly web interfaces. Managed code repositories using Git and ensured websites were fully responsive and optimized for various devices and browsers.",
+        "Experienced in providing diverse accounting services, including the review and reconciliation of monthly and annual accounts. Skilled in preparing financial reports, ensuring compliance with accounting regulations, and using accounting software. Effective communicator, fostering departmental cohesion. Committed to delivering professional and accurate accounting services.",
     },
   ],
   education: [
